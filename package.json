@@ -1,12 +1,12 @@
 {
-  "name": "telebot",
+  "name": "NAYAN-TELEGRAM-BOT",
   "version": "0.0.1",
   "description": "Simple Telegram Bot Plugins",
-  "main": "beta.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node beta.js"
+    "start": "node index.js"
   },
-  "author": "Lann",
+  "author": "Mohammad Nayan",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.7.2",
